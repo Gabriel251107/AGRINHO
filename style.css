@@ -3,4 +3,35 @@ html {
   width: 100%;
 }
 
-background( white,red);
+body{
+  background: linear-gradient( white,red);
+
+}
+
+*{
+text-align: center;
+}
+
+header {
+  background:.
+}
+
+nav li {
+  display: inline;
+  margin: 0 0 0 15px;
+}
+
+nav ul {}
+
+nav a {
+  text-transform: uppercase;
+  color: #000000;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 22px;
+
+}
+.img {
+  width: 100%;
+  height: 100%;
+}
